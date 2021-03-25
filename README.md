@@ -14,3 +14,7 @@ in general regardless of the radio being used; for example, I
 explain how to set up the DxLabs suite of programs (Commander,
 DxKeeper and DxView) to enable semi-automatic logging with
 SatPC32.
+
+Update 03/24/2021 - Release 1.1 adds a picture of what the 
+radio should look like when properly set up for the CAS-4A
+satellite.
