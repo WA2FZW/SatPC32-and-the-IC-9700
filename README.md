@@ -18,3 +18,7 @@ SatPC32.
 Update 03/24/2021 - Release 1.1 adds a picture of what the 
 radio should look like when properly set up for the CAS-4A
 satellite.
+
+Update 04/11/2021 - Release 1.2 adds some information regarding
+the need to keep one's computer clock accurate and the need to
+keep the Keplerian data up-to-date.
