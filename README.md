@@ -22,3 +22,8 @@ satellite.
 Update 04/11/2021 - Release 1.2 adds some information regarding
 the need to keep one's computer clock accurate and the need to
 keep the Keplerian data up-to-date.
+
+Update 05/30/2021 - Release 1.3 added some further explanation
+about what happens if the "NOR/REV" settings on the radio do
+not match the setting in the Doppler.sqf file for a particular
+satellite.
